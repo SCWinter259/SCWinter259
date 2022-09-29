@@ -59,7 +59,7 @@ I am Casper, from Vietnam, currently studying Computing Science at the Universit
 
 ---
 
-<h1 align="center">
-    Thank you for visiting!
+<div align="center">
+    <h1 Thank you for visiting!/>
     <img src="https://github.com/SCWinter259/SCWinter259/blob/main/adorable-dancing.gif" width="100"/>
-</h1>
+</div>
