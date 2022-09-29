@@ -18,6 +18,13 @@ I am Casper, from Vietnam, currently studying Computing Science at the Universit
 - :relieved: I may watch Anime, Kdrama or Cdrama if I were to give myself a long break.
 - :e-mail: hoangtru@ualberta.ca
 
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/trung-nguyen-298302215/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+    </a>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
@@ -54,12 +61,6 @@ I am Casper, from Vietnam, currently studying Computing Science at the Universit
 
 ---
 
-<div id="header" align="center">
+<div align="center">
     <img src="https://github.com/SCWinter259/SCWinter259/blob/main/adorable-dancing.gif" width="100"/>
-</div>
-
-<div align="center" id="badges">
-    <a href="https://www.linkedin.com/in/trung-nguyen-298302215/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-    </a>
 </div>
