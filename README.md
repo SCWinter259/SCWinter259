@@ -14,7 +14,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://github.com/SCWinter259/SCWinter259/blob/main/Anya.gif" width="300" height="300"/>
+    <img src="https://github.com/SCWinter259/SCWinter259/blob/main/Anya.gif" width="600" height="600"/>
 </div>
 
 ---
