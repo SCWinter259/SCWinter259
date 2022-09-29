@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://github.com/SCWinter259/SCWinter259/blob/main/Anya.gif" width="600" height="600"/>
+    <img src="https://github.com/SCWinter259/SCWinter259/blob/main/Anya.gif" width="400" height="400"/>
 </div>
 
 ---
@@ -59,7 +59,7 @@ I am Casper, from Vietnam, currently studying Computing Science at the Universit
 
 ---
 
-<div align="center">
+<h1 align="center">
     Thank you for visiting!
     <img src="https://github.com/SCWinter259/SCWinter259/blob/main/adorable-dancing.gif" width="100"/>
-</div>
+</h1>
