@@ -11,7 +11,7 @@
 
 ---
 
-### :technologist: About Me:
+### :technologist: <span style="color:red">About Me:</span>
 
 I am Casper, from Vietnam, currently studying Computing Science at the University of Alberta.
 
