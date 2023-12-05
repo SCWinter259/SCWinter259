@@ -13,9 +13,9 @@
 
 ---
 
-### :technologist: About Me:
+### About Me 👨‍💻
 
-I am Casper, from Vietnam, currently studying Computing Science at the University of Alberta.
+I am Casper, from Vietnam 🇻🇳, currently studying Computing Science at the University of Alberta.
 
 - :seedling: I am currently most interested in Web and Android Development.
 - :zap: In my free time, I either work on my unfinished projects or discover some new technologies. 
@@ -29,7 +29,7 @@ I am Casper, from Vietnam, currently studying Computing Science at the Universit
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools 🛠️
 
 #### Languages
 
@@ -82,7 +82,7 @@ I am Casper, from Vietnam, currently studying Computing Science at the Universit
 
 ---
 
-### :fire: My Stats:
+### My Stats 🔥:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SCWinter259&theme=dark&background=000000)](https://git.io/streak-stats)
 
