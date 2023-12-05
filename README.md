@@ -13,9 +13,9 @@
 
 ---
 
-### About Me 👨‍💻
+### About Me 🇻🇳🇨🇦
 
-I am Casper, from Vietnam 🇻🇳, currently studying Computing Science at the University of Alberta.
+I'm Casper, a Computing Science student at the University of Alberta
 
 - :seedling: I am currently most interested in Web and Android Development.
 - :zap: In my free time, I either work on my unfinished projects or discover some new technologies. 
