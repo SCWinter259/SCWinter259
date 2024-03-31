@@ -3,13 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<!--
 <p align="center"><i>My CV and resume are still professional. I just want my Github to be personalized until I have a personal website (soon, I promise), and so here is Anya.</i></p>
 
 <div align="center">
     <img src="https://github.com/SCWinter259/SCWinter259/blob/main/Anya.gif" width="400" height="400"/>
 </div>
---->
 
 ---
 
@@ -138,9 +136,7 @@ I'm Casper, a Computing Science student at the University of Alberta
 
 ---
 
-<!--
 <div align="center">
     <h1> Thank you for visiting! </h1>
     <img src="https://github.com/SCWinter259/SCWinter259/blob/main/adorable-dancing.gif" width="100"/>
 </div>
---->
