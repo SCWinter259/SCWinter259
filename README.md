@@ -18,7 +18,7 @@ I'm Casper, a Computing Science student at the University of Alberta
 - :seedling: I am currently most interested in Web and Android Development.
 - :zap: In my free time, I either work on my unfinished projects or discover some new technologies. 
 - :relieved: I may watch Anime, Kdrama or Cdrama if I were to give myself a long break.
-- :e-mail: hoangtru@ualberta.ca
+- :e-mail: nguyentrungycs@gmail.com
 - <div id="badges">
     <a href="https://www.linkedin.com/in/trung-nguyen-298302215/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
