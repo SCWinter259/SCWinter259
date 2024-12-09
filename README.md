@@ -20,7 +20,7 @@ I'm Casper, a Computing Science student at the University of Alberta
 - :relieved: I may watch Anime, Kdrama or Cdrama if I were to give myself a long break.
 - :e-mail: nguyentrungycs@gmail.com
 - <div id="badges">
-    <a href="https://www.linkedin.com/in/trung-nguyen-298302215/">
+    <a href="https://www.linkedin.com/in/casper-nguyen-298302215/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
 </div>
