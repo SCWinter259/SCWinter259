@@ -82,6 +82,7 @@ I'm Casper, a Computing Science student at the University of Alberta
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" title="Subversion (SVN)" alt="Subversion (SVN)" width="40" height="40"/>&nbsp;
   <!-- Hosting/Cloud --->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
