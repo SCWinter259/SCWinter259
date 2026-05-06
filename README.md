@@ -97,9 +97,15 @@ I'm Casper, a Computing Science student at the University of Alberta
 
 ### My Stats 🔥:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SCWinter259&theme=dark&background=000000)](https://git.io/streak-stats)
+![](./profile-summary-card-output/github_dark/0-profile-details.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SCWinter259&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+![](./profile-summary-card-output/github_dark/3-stats.svg)
+![](./profile-summary-card-output/github_dark/4-productive-time.svg)
+
+![](./assets/metrics.svg)
 
 ---
 
