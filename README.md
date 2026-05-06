@@ -101,9 +101,15 @@ I'm Casper, a Computing Science student at the University of Alberta
 
 ![](./profile-summary-card-output/github_dark/0-profile-details.svg)
 
-**Languages by public repositories**
+![](./assets/github-grade.svg)
 
-![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+**Languages**
+
+![](./assets/github-languages.svg)
+
+**Contribution streak**
+
+![](./assets/github-streak.svg)
 
 ---
 
