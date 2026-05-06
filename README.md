@@ -95,17 +95,24 @@ I'm Casper, a Computing Science student at the University of Alberta
 
 ---
 
-### My Stats 🔥:
+### GitHub Snapshot 🔥
+
+Generated daily around 09:00 UTC with GitHub Actions from public GitHub data. Private contributions may be omitted or anonymized by GitHub.
+
+**Profile overview**  
+Account-level public activity. The trend line covers the last 12 months; other account facts are current public profile totals.
 
 ![](./profile-summary-card-output/github_dark/0-profile-details.svg)
 
+**Languages by public repositories**  
+Current primary languages across my public repositories. This is based on GitHub's repository language classification, not total lines of code.
+
 ![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+
+**Languages by public commits**  
+Cumulative language split from public commit history available to the generator. This may exclude private or unavailable commit data.
+
 ![](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
-
-![](./profile-summary-card-output/github_dark/3-stats.svg)
-![](./profile-summary-card-output/github_dark/4-productive-time.svg)
-
-![](./assets/metrics.svg)
 
 ---
 
