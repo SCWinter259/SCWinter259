@@ -11,7 +11,7 @@
   <g clip-path="url(#lc-clip)"><rect x="25" y="42" width="201" height="10" fill="#3572A5"/><rect x="226" y="42" width="127" height="10" fill="#3178c6"/><rect x="353" y="42" width="49" height="10" fill="#e34c26"/><rect x="402" y="42" width="28" height="10" fill="#178600"/><rect x="430" y="42" width="19" height="10" fill="#f1e05a"/><rect x="449" y="42" width="10" height="10" fill="#b07219"/><rect x="459" y="42" width="10" height="10" fill="#663399"/><rect x="469" y="42" width="2" height="10" fill="#89e051"/></g>
   <circle cx="31" cy="73" r="4" fill="#3572A5"/>
   <text x="39" y="77" class="lc-name">Python</text>
-  <text x="171" y="77" class="lc-pct" text-anchor="end">45.3%</text>
+  <text x="171" y="77" class="lc-pct" text-anchor="end">45.2%</text>
   <circle cx="179" cy="73" r="4" fill="#3178c6"/>
   <text x="187" y="77" class="lc-name">TypeScript</text>
   <text x="319" y="77" class="lc-pct" text-anchor="end">28.5%</text>
