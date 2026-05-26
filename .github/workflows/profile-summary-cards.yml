@@ -1,4 +1,4 @@
-name: GitHub Profile Summary Cards
+name: Profile Assets
 
 on:
   push:
@@ -11,16 +11,23 @@ on:
     - cron: "0 9 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: profile-assets-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-    name: Generate profile summary cards
+    name: Generate profile cards and stats snapshots
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -28,4 +35,69 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: -6
           EXCLUDE: ""
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Fetch stats SVGs
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p assets
+
+          fetch_svg() {
+            local label="$1"
+            local url="$2"
+            local output="$3"
+            local tmp
+            tmp="$(mktemp)"
+
+            curl --fail --location --silent --show-error --retry 3 --retry-delay 10 "$url" --output "$tmp"
+
+            if ! grep -q "<svg" "$tmp"; then
+              echo "$label did not return an SVG."
+              cat "$tmp"
+              exit 1
+            fi
+
+            if grep -Eiq "Something went wrong|Could not|Cannot|Rate Limit|API rate limit|Maximum retries exceeded" "$tmp"; then
+              echo "$label returned an error SVG."
+              cat "$tmp"
+              exit 1
+            fi
+
+            mv "$tmp" "$output"
+          }
+
+          fetch_svg \
+            "GitHub grade" \
+            "https://ghstats.dev/api/card?username=SCWinter259&theme=midnight&hide=stars&hide_border=false" \
+            "assets/github-grade.svg"
+
+          fetch_svg \
+            "Languages" \
+            "https://ghstats.dev/api/langs?username=SCWinter259&theme=midnight&layout=bar&max_langs=8&hide_border=false" \
+            "assets/github-languages.svg"
+
+          fetch_svg \
+            "Contribution streak" \
+            "https://streak-stats.demolab.com?user=SCWinter259&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" \
+            "assets/github-streak.svg"
+
+      - name: Commit changed profile assets
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-grade.svg assets/github-languages.svg assets/github-streak.svg profile-summary-card-output
+
+          if git diff --cached --quiet; then
+            echo "No profile asset changes."
+            exit 0
+          fi
+
+          git commit -m "Update profile assets [skip ci]"
+          git fetch origin main
+          git rebase origin/main
+          git push

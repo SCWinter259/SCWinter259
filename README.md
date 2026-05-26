@@ -70,7 +70,6 @@ I graduated from the University of Alberta in 2025 with a Bachelor of Science in
 #### AI, Product & Workflow Tools
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sanity/sanity-original.svg" title="Sanity" alt="Sanity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
