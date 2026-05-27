@@ -14,7 +14,7 @@
   <text x="171" y="77" class="lc-pct" text-anchor="end">45.2%</text>
   <circle cx="179" cy="73" r="4" fill="#3178c6"/>
   <text x="187" y="77" class="lc-name">TypeScript</text>
-  <text x="319" y="77" class="lc-pct" text-anchor="end">28.5%</text>
+  <text x="319" y="77" class="lc-pct" text-anchor="end">28.6%</text>
   <circle cx="327" cy="73" r="4" fill="#e34c26"/>
   <text x="335" y="77" class="lc-name">HTML</text>
   <text x="467" y="77" class="lc-pct" text-anchor="end">10.9%</text>
