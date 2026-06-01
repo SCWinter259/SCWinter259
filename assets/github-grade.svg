@@ -23,43 +23,43 @@
     <g class="row" style="animation-delay:0ms">
       <svg x="25" y="60" width="16" height="16" viewBox="0 0 16 16" fill="#0099ff"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5h-3.32zM8 10.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/></svg>
       <text x="50" y="72.5" class="label">Total Commits (2026):</text>
-      <text x="350" y="72.5" class="value" text-anchor="end">172</text>
+      <text x="350" y="72.5" class="value" text-anchor="end">116</text>
       
     </g>
     <g class="row" style="animation-delay:150ms">
       <svg x="25" y="85" width="16" height="16" viewBox="0 0 16 16" fill="#0099ff"><path d="M7.177 3.073 9.573.677A.25.25 0 0 1 10 .854v4.792a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354zM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-2.25.75a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25zM11 2.5h-1V4h1a1 1 0 0 1 1 1v5.628a2.251 2.251 0 1 0 1.5 0V5A2.5 2.5 0 0 0 11 2.5zm1 10.25a.75.75 0 1 1 1.5 0 .75.75 0 0 1-1.5 0zM3.75 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5z"/></svg>
       <text x="50" y="97.5" class="label">Pull Requests:</text>
-      <text x="350" y="97.5" class="value" text-anchor="end">43</text>
+      <text x="350" y="97.5" class="value" text-anchor="end">25</text>
       
     </g>
     <g class="row" style="animation-delay:300ms">
       <svg x="25" y="110" width="16" height="16" viewBox="0 0 16 16" fill="#0099ff"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zM1.5 8a6.5 6.5 0 1 1 13 0 6.5 6.5 0 0 1-13 0z"/></svg>
       <text x="50" y="122.5" class="label">Issues Opened:</text>
-      <text x="350" y="122.5" class="value" text-anchor="end">5</text>
+      <text x="350" y="122.5" class="value" text-anchor="end">1</text>
       
     </g>
     <g class="row" style="animation-delay:450ms">
       <svg x="25" y="135" width="16" height="16" viewBox="0 0 16 16" fill="#0099ff"><path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm.5 4.75v3.44l2.78 1.61a.75.75 0 1 1-.75 1.3l-3.16-1.83A.75.75 0 0 1 7 8.69V4.75a.75.75 0 0 1 1.5 0z"/></svg>
       <text x="50" y="147.5" class="label">Estimated Coding Hours:</text>
-      <text x="350" y="147.5" class="value" text-anchor="end">152.5h</text>
+      <text x="350" y="147.5" class="value" text-anchor="end">95.9h</text>
       
     </g>
     <g class="row" style="animation-delay:600ms">
       <svg x="25" y="160" width="16" height="16" viewBox="0 0 16 16" fill="#0099ff"><path d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.943.114 1.5-.455 1.5-.638 0-1.18-.504-1.48-1.089a3.645 3.645 0 0 1-.346-1.323 3.9 3.9 0 0 0-.6.961c-.563.767-.895 1.636-.895 2.622 0 2.52 2.168 4.5 5 4.5z"/></svg>
       <text x="50" y="172.5" class="label">Current Streak:</text>
-      <text x="350" y="172.5" class="value" text-anchor="end">7 days</text>
+      <text x="350" y="172.5" class="value" text-anchor="end">8 days</text>
       
     </g>
     <g class="row" style="animation-delay:750ms">
       <svg x="25" y="185" width="16" height="16" viewBox="0 0 16 16" fill="#0099ff"><path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0zm0 3.5h-.75a.25.25 0 0 0-.25.25V6h8.5V3.75a.25.25 0 0 0-.25-.25h-.75v.75a.75.75 0 0 1-1.5 0V3.5h-5v.75a.75.75 0 0 1-1.5 0zm-1.5 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5z"/></svg>
       <text x="50" y="197.5" class="label">Commits This Week:</text>
-      <text x="350" y="197.5" class="value" text-anchor="end">133</text>
+      <text x="350" y="197.5" class="value" text-anchor="end">135</text>
       
     </g>
     <g class="row" style="animation-delay:900ms">
       <svg x="25" y="210" width="16" height="16" viewBox="0 0 16 16" fill="#0099ff"><path d="M.75 8a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0v-5.5A.75.75 0 0 1 .75 8zm4-4a.75.75 0 0 1 .75.75v9.5a.75.75 0 0 1-1.5 0v-9.5A.75.75 0 0 1 4.75 4zM8.75 0a.75.75 0 0 1 .75.75v13.5a.75.75 0 0 1-1.5 0V.75a.75.75 0 0 1 .75-.75zm4 2a.75.75 0 0 1 .75.75v11.5a.75.75 0 0 1-1.5 0V2.75a.75.75 0 0 1 .75-.75z"/></svg>
       <text x="50" y="222.5" class="label">Weekly Trend:</text>
-      <text x="350" y="222.5" class="value" text-anchor="end">133 commits</text>
+      <text x="350" y="222.5" class="value" text-anchor="end">135 commits</text>
       <g transform="translate(217.5, 212)">
           <path d="M 0 6 L 4 0 L 8 6 L 5 6 L 5 10 L 3 10 L 3 6 Z" fill="#3fb950"/>
           <text x="12" y="9" fill="#3fb950" class="trend-text">+71%</text>
@@ -86,7 +86,7 @@
     <g class="row" style="animation-delay:1500ms">
       <svg x="25" y="310" width="16" height="16" viewBox="0 0 16 16" fill="#0099ff"><path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042z"/></svg>
       <text x="50" y="322.5" class="label">Contributions This Year:</text>
-      <text x="350" y="322.5" class="value" text-anchor="end">1,708</text>
+      <text x="350" y="322.5" class="value" text-anchor="end">1,629</text>
       
     </g>
     <g class="row" style="animation-delay:1650ms">
