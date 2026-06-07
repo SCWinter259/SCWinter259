@@ -83,12 +83,6 @@ I graduated from the University of Alberta in 2025 with a Bachelor of Science in
 
 ![](./profile-summary-card-output/github_dark/0-profile-details.svg)
 
-![](./assets/github-grade.svg)
-
-**Languages**
-
-![](./assets/github-languages.svg)
-
 **Contribution streak**
 
 ![](./assets/github-streak.svg)
